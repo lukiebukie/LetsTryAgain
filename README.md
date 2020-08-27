@@ -1,4 +1,5 @@
 # LetsTryAgain
-kellan mccarthy
+Kellan McCarthy
 Evelyn Choi
 Lukas Seklir
+Kyle Kaufman
